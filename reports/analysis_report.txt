@@ -1,0 +1,11 @@
+[+] Original Payload: test_payload_example
+[+] Detected: True
+
+[+] Base64 Encoded: dGVzdF9wYXlsb2FkX2V4YW1wbGU=
+[+] Detected: False
+
+[+] XOR Encoded: wfpw\sbzolbg\f{bnsof
+[+] Detected: False
+
+[+] Obfuscated Payload: tests_BpaylOoad_eRxampulen
+[+] Detected: False
